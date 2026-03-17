@@ -1,3 +1,3 @@
-# Calculadora_Penal_ABCD
-Desenvolvida por Luis Felipe "Cavalcanti"
-Editada e Publicada por Caribo Galli "Saghatz"
+# Calculadora_Penal_
+Desenvolvida 
+Editada e Publicada
